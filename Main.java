@@ -24,6 +24,8 @@
 
   <body> 
     <canvas id="game" style="position: fixed"></canvas>
+    
+    
 
      
 
